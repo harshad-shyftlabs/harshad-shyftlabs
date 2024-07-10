@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm [Your Name], a [Your Role/Profession].
+Welcome to my GitHub profile! I'm [Harshad Kolhe], a [Software Devlopment Engineer].
 
 ## About Me
 
